@@ -1,6 +1,6 @@
 # CutROIVideo 
-## Código que corta um vídeo na ROI escolhida pelo usuário 
-Atualizado dia 11-07
+## Código que seleciona uma ROI em um vídeo e corta o video no tamanho da ROI
+Atualizado dia 11-07-2023
 
 Iniciar: com o vídeo que deseja cortar, usar o botão “Enter” para dar stop no vídeo e assim, selecione a ROI que deseja, 
 nesse formato usamos um retângulo que pode ser variável,
